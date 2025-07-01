@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /build
+/static/assets/fonts/Mona-Sans.woff2
+/static/doge.png
 /.svelte-kit
 /package
 .env
